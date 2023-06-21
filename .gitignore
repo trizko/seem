@@ -105,7 +105,5 @@ Config/
 Config/*
 
 *venv/*
-./demo_code/*.pt
-./demo_code/*.pth
 *.pt
 *.pth
